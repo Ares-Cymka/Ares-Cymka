@@ -1,13 +1,4 @@
-
-
-
 <div align="center" width="50">
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+5+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
-</div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
